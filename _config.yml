@@ -1,0 +1,28 @@
+name: pluginoven
+favicon: null
+layout_spectrum: 0.5726171580608934
+typography_spectrum: 0.5504106690641493
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8655759855173528
+  lightness: 0.3797530389856547
+  saturation: 0.04920804384164512
+  rhythmicContrast: 0.07836600858718157
+purpose: []
